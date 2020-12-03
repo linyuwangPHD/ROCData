@@ -1,0 +1,4 @@
+RPRes = 0.8378
+CROSS = 0.6612
+
+print((RPRes-CROSS)/CROSS)
